@@ -1,0 +1,10 @@
+Jumbling Raccoons Game Scripts Documentation
+
+Version: 0.1.6
+Date: June 14, 2023
+
+This documentation provides an overview of the scripts developed for the game "Jumbling Raccoons." 
+These scripts were created to enhance the gameplay experience, manage game mechanics, and facilitate various functionalities within the game. 
+You can find two folders here:
+_Scripts (All of the current game functionality)
+ and _ScriptableObjects (Used for declaring ScriptableObjects)
